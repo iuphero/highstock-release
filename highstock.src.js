@@ -1801,7 +1801,7 @@
                 minute: '%b %e %A, %H:%M',
                 hour: '%b %e %A, %H:%M',
                 day: '%Y  %b %e %A',
-                week: 'Week from %Y  %b %e %A',
+                week: '周统计起始于 %Y  %b %e %A',
                 month: '%B %Y',
                 year: '%Y'
             },
@@ -20443,7 +20443,7 @@
                 minute: ['%b %e %A, %H:%M', '%b %e %A, %H:%M', '-%H:%M'],
                 hour: ['%b %e %A, %H:%M', '%b %e %A, %H:%M', '-%H:%M'],
                 day: ['%Y  %b %e %A', '%b %e %A', '-%Y  %b %e %A'],
-                week: ['Week from %Y  %b %e %A', '%b %e %A', '-%Y  %b %e %A'],
+                week: ['周统计起始于 %Y  %b %e %A', '%b %e %A', '-%Y  %b %e %A'],
                 month: ['%B %Y', '%B', '-%B %Y'],
                 year: ['%Y', '%Y', '-%Y']
             }
